@@ -6,7 +6,7 @@
 
 int main() {
     char Estado;
-    char Códigodacarta[50], Nomedacidade[50];
+    char Codigodacarta[50], Nomedacidade[50];
     int polulação;
     float Pib;
     float area;
@@ -16,7 +16,7 @@ int main() {
     printf("Digite o número da carta\n");
     scanf("%D &Carta ");
     printf("Estado");
-    scanf("%c &Códigodacarta ");
+    scanf("%c &Codigodacarta ");
     printf("Nome Da Cidade \n");
     scanf("%c &Nomedacidade");
     printf("população \n");
